@@ -1,4 +1,4 @@
-# 🧠 Projeto de Aprendizado - Frontend & Lógica de Programação
+# 🧠 Projeto de Aprendizado - Frontend matutino incial & Lógica de Programação inicial
 
 > Repositório criado durante **3 meses de aulas matinais**, com foco em lógica de programação, HTML, CSS e JavaScript.  
 > Cada arquivo representa um exercício, desafio ou conceito aprendido ao longo da jornada.
@@ -80,8 +80,8 @@
 
 Caso queira trocar ideias ou acompanhar minha evolução:
 
-- GitHub: [@SeuUsuario](https://github.com/IagoPelitero)
-- LinkedIn: [linkedin.com/in/seuusuario](https://linkedin.com/in/iagopelitero)
+- GitHub: [@IagoPelitero](https://github.com/IagoPelitero)
+- LinkedIn: [linkedin.com/in/iagopelitero](https://linkedin.com/in/iagopelitero)
 
 ---
 
